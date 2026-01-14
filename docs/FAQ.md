@@ -358,7 +358,7 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed guidelines. You can:
 
 ### I found a bug. Where do I report it?
 
-Open an issue on GitHub: https://github.com/YOUR_USERNAME/social-media-downloader/issues
+Open an issue on GitHub: https://github.com/Panda1847/social-media-downloader/issues
 
 Include:
 - Clear description
@@ -411,8 +411,8 @@ Yes! If the platform is supported by gallery-dl, it should work automatically. I
 ## Still Have Questions?
 
 - 📖 Check the [documentation](.)
-- 💬 Ask in [GitHub Discussions](https://github.com/YOUR_USERNAME/social-media-downloader/discussions)
-- 🐛 Report issues on [GitHub](https://github.com/YOUR_USERNAME/social-media-downloader/issues)
+- 💬 Ask in [GitHub Discussions](https://github.com/Panda1847/social-media-downloader/discussions)
+- 🐛 Report issues on [GitHub](https://github.com/Panda1847/social-media-downloader/issues)
 - 📧 Contact the maintainers
 
 ---

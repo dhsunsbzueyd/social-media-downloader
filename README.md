@@ -106,7 +106,7 @@ termux-setup-storage
 
 # 3. Clone this repository
 pkg install git -y
-git clone https://github.com/YOUR_USERNAME/social-media-downloader.git
+git clone https://github.com/Panda1847/social-media-downloader.git
 cd social-media-downloader
 
 # 4. Run the setup script (one-time only)
@@ -121,7 +121,7 @@ chmod +x scripts/termux_setup.sh
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/social-media-downloader.git
+git clone https://github.com/Panda1847/social-media-downloader.git
 cd social-media-downloader
 
 # 2. Install dependencies
@@ -459,7 +459,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/social-media-downloader.git
+git clone https://github.com/Panda1847/social-media-downloader.git
 cd social-media-downloader
 
 # Create a new branch
@@ -502,8 +502,8 @@ This project uses the following open-source tools:
 ## 📞 Support
 
 - 📖 [Documentation](docs/)
-- 🐛 [Issue Tracker](https://github.com/YOUR_USERNAME/social-media-downloader/issues)
-- 💬 [Discussions](https://github.com/YOUR_USERNAME/social-media-downloader/discussions)
+- 🐛 [Issue Tracker](https://github.com/Panda1847/social-media-downloader/issues)
+- 💬 [Discussions](https://github.com/Panda1847/social-media-downloader/discussions)
 
 ---
 
@@ -533,9 +533,9 @@ If you find this project useful, please consider giving it a star! ⭐
 
 ## 📈 Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/social-media-downloader?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/social-media-downloader?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/social-media-downloader?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Panda1847/social-media-downloader?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Panda1847/social-media-downloader?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Panda1847/social-media-downloader?style=social)
 
 ---
 
