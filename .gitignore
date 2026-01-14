@@ -1,0 +1,135 @@
+# Social Media Downloader .gitignore
+
+# Downloaded content
+downloads/
+Downloads/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.avi
+*.webm
+*.mp3
+*.wav
+
+# Configuration files with credentials
+config.json
+**/config.json
+.config/
+session*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+.directory
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+tmp/
+temp/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Credentials and sensitive data
+*.pem
+*.key
+*.crt
+*.p12
+credentials.txt
+secrets.txt
+.env
+.env.local
+
+# Test files
+test_downloads/
+test_output/
+
+# Backup files
+*~
+*.orig
+*.backup
+
+# Node modules (if any)
+node_modules/
+
+# Session files
+session-*
+.session
+cookies.txt
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+cache/
+__pycache__/
+
+# Personal notes
+notes.txt
+TODO.txt
+personal/
+
+# Large files
+*.iso
+*.dmg
